@@ -1,2 +1,2 @@
-# FoSS_1
+# FoSS
 Labs on Fundamentals of System Software
